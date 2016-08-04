@@ -1,0 +1,5 @@
+http://pleiades.stoa.org/places/197189/json
+http://localhost:7070/some.json
+http://www.imdb.com/xml/find?json=1&nr=1&nm=on&q=jeniffer+garner
+
+http://pleiades.stoa.org/places/462218/json

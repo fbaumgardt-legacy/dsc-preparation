@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<favoritenodes>
+<personals/>
+<frequents>
+<favorite frequency="8" nodeid="org.knime.js.base.node.viz.table.WebTableViewNodeFactory"/>
+<favorite frequency="2" nodeid="org.knime.base.node.util.mergevariables.MergeVariablesNodeFactory"/>
+<favorite frequency="2" nodeid="org.knime.base.node.io.csvwriter.CSVWriterNodeFactory"/>
+<favorite frequency="1" nodeid="WriteVariablesNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.json.node.jsonpath.dict.JSONPathDictNodeFactory"/>
+<favorite frequency="5" nodeid="org.knime.js.base.node.quickform.input.string.StringInputQuickFormNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.flowvariable.variabletotablerow2.VariableToTable2NodeFactory"/>
+<favorite frequency="2" nodeid="org.knime.xml.node.xpath2.XPathNodeFactory"/>
+<favorite frequency="3" nodeid="org.knime.json.node.reader.JSONReaderNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.xml.node.stringtoxml.StringToXMLNodeFactory"/>
+<favorite frequency="1" nodeid="ReadVariablesNodeFactory"/>
+<favorite frequency="1" nodeid="ws.palladian.nodes.retrieval.utils.HttpEntityCreatorNodeFactory"/>
+<favorite frequency="2" nodeid="com.cenix.krest.nodes.submitter.get.GetRestNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.datageneration.EmptyFileCreator.EmptyFileCreatorNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.flowvariable.appendvariabletotable2.AppendVariableToTable2NodeFactory"/>
+<favorite frequency="2" nodeid="com.mmiagency.knime.nodes.html.CleanHtmlRetrieverNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.io.table.read.ReadTableNodeFactory"/>
+<favorite frequency="2" nodeid="org.knime.base.node.flowvariable.injectvariables.InjectVariablesNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.ext.sun.nodes.script.node.editvar.JavaEditVariableNodeFactory"/>
+<favorite frequency="6" nodeid="org.knime.base.node.io.tablecreator.TableCreator2NodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.ext.textprocessing.nodes.source.parser.pdf.PDFDocumentParserNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.ext.sun.nodes.script.JavaScriptingNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.json.node.totable.JSONToTableNodeFactory"/>
+<favorite frequency="1" nodeid="com.cenix.krest.nodes.submitter.batchget.BatchGetRestNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.viz.table.TableNodeFactory"/>
+<favorite frequency="3" nodeid="org.knime.base.node.io.filereader.FileReaderNodeFactory"/>
+<favorite frequency="2" nodeid="org.knime.base.node.io.csvreader.CSVReaderNodeFactory"/>
+<favorite frequency="2" nodeid="org.knime.json.node.fromstring.StringToJSONNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.filehandling.uriporttovariable.URIPortToVariableNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.json.node.input.JSONInputNodeFactory"/>
+</frequents>
+<lastused>
+<favorite nodeid="org.knime.js.base.node.viz.table.WebTableViewNodeFactory"/>
+<favorite nodeid="com.mmiagency.knime.nodes.html.CleanHtmlRetrieverNodeFactory"/>
+<favorite nodeid="org.knime.base.node.io.tablecreator.TableCreator2NodeFactory"/>
+<favorite nodeid="org.knime.xml.node.xpath2.XPathNodeFactory"/>
+<favorite nodeid="ws.palladian.nodes.retrieval.utils.HttpEntityCreatorNodeFactory"/>
+<favorite nodeid="org.knime.json.node.fromstring.StringToJSONNodeFactory"/>
+<favorite nodeid="org.knime.base.node.io.csvwriter.CSVWriterNodeFactory"/>
+<favorite nodeid="com.cenix.krest.nodes.submitter.batchget.BatchGetRestNodeFactory"/>
+<favorite nodeid="org.knime.ext.sun.nodes.script.JavaScriptingNodeFactory"/>
+<favorite nodeid="org.knime.base.node.io.table.read.ReadTableNodeFactory"/>
+</lastused>
+</favoritenodes>

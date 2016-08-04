@@ -1,0 +1,2 @@
+/Users/fbaumgardt/viaf88890045.003.perseus-eng1.xml
+http://cts.perseids.org/api/cts/?request=GetPassage&urn=urn:cts:pdlrefwk:viaf88890045.003.perseus-eng1:C.celsus_albinovanus_1-C.censorinus_8
