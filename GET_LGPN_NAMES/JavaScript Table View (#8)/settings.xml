@@ -48,42 +48,29 @@
 <entry key="selectionColumnName" type="xstring" value="Selected (Table View)"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="IDLE"/>
 <entry key="factory" type="xstring" value="org.knime.js.base.node.viz.table.WebTableViewNodeFactory"/>
-<entry key="node-name" type="xstring" value="JavaScript Table View"/>
+<entry key="node-name" type="xstring" value="JavaScript Simple Table View (deprecated)"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME JavaScript Base Views"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.js.views"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME.com, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.1.v201601291159"/>
+<entry key="node-bundle-version" type="xstring" value="3.2.0.v201607061823"/>
 <entry key="node-feature-name" type="xstring" value="KNIME JavaScript Views"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.js.views.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.2.v201603040957"/>
+<entry key="node-feature-version" type="xstring" value="3.2.0.v201607061823"/>
 <config key="factory_settings"/>
-<entry key="name" type="xstring" value="JavaScript Table View"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="name" type="xstring" value="JavaScript Simple Table View (deprecated)"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 25, Cols: 5"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
-</config>
-</config>
-<config key="internalObjects">
-<entry key="location" type="xstring" value="internalTables"/>
-<config key="content">
-<config key="object_0">
-<entry key="index" type="xint" value="0"/>
-<entry key="type" type="xstring" value="table"/>
-<entry key="table_dir_location" type="xstring" value="object_0"/>
-</config>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="5d50d452-c3a0-4f80-8d80-1601609667e7"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>

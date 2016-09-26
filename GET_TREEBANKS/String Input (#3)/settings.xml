@@ -8,12 +8,6 @@
 <entry key="class" type="xstring" value="STRING"/>
 <entry key="value" type="xstring" value="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:12"/>
 </config>
-<config key="Variable_1">
-<entry key="type" type="xstring" value="variable"/>
-<entry key="name" type="xstring" value="urn"/>
-<entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:12"/>
-</config>
 </config>
 <config key="internal_node_subsettings">
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
@@ -47,34 +41,29 @@
 <config key="styles"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
 <entry key="factory" type="xstring" value="org.knime.js.base.node.quickform.input.string.StringInputQuickFormNodeFactory"/>
 <entry key="node-name" type="xstring" value="String Input"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Quick Form Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.js.quickforms"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME.com, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.0.v201512021139"/>
+<entry key="node-bundle-version" type="xstring" value="3.2.1.v201608161059"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Quick Forms"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.js.quickforms.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME.com, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="3.1.3.v201604221432"/>
+<entry key="node-feature-version" type="xstring" value="3.2.1.v201608182043"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="String Input"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObjectSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObject"/>
-<entry key="port_object_summary" type="xstring" value="Variables connection"/>
-<entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
-<entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="fe0abf49-eba9-4a5f-8c9b-6bba6a5a6c03"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>

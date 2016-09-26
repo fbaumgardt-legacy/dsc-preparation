@@ -38,4 +38,11 @@
 		<item value="45" key="DIALOG_X_ORIGIN"/>
 		<item value="212" key="DIALOG_Y_ORIGIN"/>
 	</section>
+	<section name="org.eclipse.equinox.internal.p2.ui.dialogs.PreselectedIUInstallWizard.WizardSettings">
+		<item value="871" key="DIALOG_WIDTH"/>
+		<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="526" key="DIALOG_HEIGHT"/>
+		<item value="167" key="DIALOG_X_ORIGIN"/>
+		<item value="236" key="DIALOG_Y_ORIGIN"/>
+	</section>
 </section>

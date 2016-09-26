@@ -114,11 +114,7 @@
 <entry key="RESPONSE_REPR_TYPE_KEY" type="xstring" value="Autodetection"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
-<config key="nodecontainer_message">
-<entry key="type" type="xstring" value="WARNING"/>
-<entry key="message" type="xstring" value="Some responses have unknown content types: &quot;text/javascript; charset=utf-8&quot;. The node will use default data formats for their depiction instead."/>
-</config>
+<entry key="state" type="xstring" value="CONFIGURED"/>
 <entry key="factory" type="xstring" value="com.cenix.krest.nodes.submitter.batchget.BatchGetRestNodeFactory"/>
 <entry key="node-name" type="xstring" value="GET Resource (Batch)"/>
 <entry key="node-bundle-name" type="xstring" value="REST Client Node extension for KNIME Workbench"/>
@@ -131,19 +127,16 @@
 <entry key="node-feature-version" type="xstring" value="1.2.800.v201510161851"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="GET Resource (Batch)"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 25, Cols: 4"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="c4ae6504-75b1-447f-a3c6-7276b64d57af"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>
